@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "林檎もぎれビーム!(歌無し)",
+  "base_artist": "大槻ケンヂと絶望少女達",
+  "createdAt": "2026-02-21T01:57:05.940356Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "林檎もぎれビーム!",
+      "artist": "大槻 ケンヂと絶望少女達",
+      "has_synced": false,
+      "path": "select/pl_01_林檎もぎれビーム!_大槻_ケンヂと絶望少女達.txt"
+    }
+  ]
+}
